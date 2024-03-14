@@ -1,0 +1,18 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹Â¹ãøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Íßàï
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×¡„áúÿÿÿÿ
+—
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÜ÷
+N
+java:S3985"3Remove this unused private "MyClass5000_NEW" class.(‹Â¹ãøÿÿÿÿ
+@
+java:S1068"*Remove this unused "field0" private field.(û··
+E
+java:S1068"*Remove this unused "field1" private field.(ôŸîúÿÿÿÿ
+E
+java:S1068"*Remove this unused "field2" private field.(™ Å¿ÿÿÿÿÿ

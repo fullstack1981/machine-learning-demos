@@ -1,0 +1,8 @@
+
+t
+java:S1104"RMake field0 a static final constant or non-public and provide accessors if needed.(ïãûÿÿÿÿ8Ã·ˆ¶ã1
+t
+java:S1104"RMake field1 a static final constant or non-public and provide accessors if needed.(„£«¬øÿÿÿÿ8Ã·ˆ¶ã1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éñªõ8Ä·ˆ¶ã1
+0
+java:S1220""Move this file to a named package.

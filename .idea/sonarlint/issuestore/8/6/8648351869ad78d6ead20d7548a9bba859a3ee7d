@@ -1,0 +1,14 @@
+
+h
+java:S1104"RMake field0 a static final constant or non-public and provide accessors if needed.(ìšÌ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õùç¸ıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Íßàï
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×¡„áúÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÜ÷
+M
+java:S3985"2Remove this unused private "MyClass008_OLD" class.(Õùç¸ıÿÿÿÿ

@@ -1,0 +1,16 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(בüדה
+h
+java:S1104"RMake field0 a static final constant or non-public and provide accessors if needed.(לּ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(בüדה
+0
+java:S1220""Move this file to a named package.
+;
+java:S2157"%Add a "clone()" method to this class.(בüדה
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ֽßאן
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(׳¡„בתÿÿÿÿ
+E
+java:S1068"*Remove this unused "field2" private field.(†›רûÿÿÿÿ
